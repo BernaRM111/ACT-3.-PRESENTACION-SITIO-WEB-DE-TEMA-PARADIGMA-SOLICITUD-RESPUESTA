@@ -1089,4 +1089,12 @@ html {
 	.content p{
 		font-size: 1.6rem;
 	}
+
+	.container-features-2 {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		gap: 3rem;
+		padding: 1rem 0; 
+		
+	}
 }
