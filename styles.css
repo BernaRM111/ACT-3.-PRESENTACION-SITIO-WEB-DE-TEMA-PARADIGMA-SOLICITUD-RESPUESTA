@@ -32,6 +32,9 @@ html {
 	font-weight: 500;
 	font-size: 3rem;
 }
+.head1 {
+	width: 100%;
+}
 
 /* ********************************** */
 /*               HEADER               */
@@ -253,6 +256,7 @@ html {
 /* ********************************** */
 .main-content {
 	background-color: var(--background-color);
+	width: 100%;
 }
 
 /* ********************************** */
@@ -721,6 +725,7 @@ html {
 
 .footer {
 	background-color: var(--primary-color);
+	width: 100%;
 }
 
 .container-footer {
